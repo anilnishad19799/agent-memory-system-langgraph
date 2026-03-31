@@ -50,9 +50,9 @@ Response
 
 ### Prerequisites
 
-- Python 3.9+
-- PostgreSQL 12+ (or Docker)
-- API Keys: OpenAI and Anthropic
+- Python 3.12+
+- PostgreSQL 15+ (or Docker)
+- API Keys: OpenAI
 
 ### 1. Install Dependencies
 
